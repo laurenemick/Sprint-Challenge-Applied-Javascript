@@ -32,15 +32,3 @@ function createTab(item) {
     
     return tab
 }
-
-/*
-    const topics = document.querySelector('.topics')
-
-        for (let i = 0; i < topicsObj.length; i++) {
-            const tab = document.createElement('div')
-            tab.classList.add('tab')
-            tab.textContent = item.topics
-        
-            topics.appendChild(tab)
-        }
-        */

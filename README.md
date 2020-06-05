@@ -30,6 +30,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+An object representation of the html elements of a webpage. It gives us an interface that with which we can interact with and manipulate the page, changing document structure, content, and styling.
+
 2. What is an event?
 
 3. What is an event listener?
